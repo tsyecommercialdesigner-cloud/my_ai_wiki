@@ -46,15 +46,19 @@ outputs/    产出物
 
 - 来源摘要：[[现有智能体框架分析]] — LangChain / AutoGen / CrewAI / LangGraph 四大框架分析（来源：《从零构建 AI Agent》第 2 章）
   - 原始资料：`raw/articles/现有智能体框架分析.md`
+- 来源摘要：[[扣子智能体构建平台：功能、能力与应用]] — 字节跳动智能体构建平台 Coze 的定位、核心理念、五大功能模块与五类应用
+  - 原始资料：`raw/articles/扣子智能体构建平台：功能、能力与应用.md`
 
 ## 资料清单
 
 | 类型 | 文件 | 来源摘要页 | 状态 |
 | --- | --- | --- | --- |
 | article | `raw/articles/现有智能体框架分析.md` | [[现有智能体框架分析]] | 已收录 |
+| article | `raw/articles/扣子智能体构建平台：功能、能力与应用.md` | [[扣子智能体构建平台：功能、能力与应用]] | 已收录 |
 
 ## 待办
 
 - [ ] 从《现有智能体框架分析》提炼概念页（如 ReAct、链式推理、规划器、DAG 任务编排等）到 `wiki/concepts/`
 - [ ] 为 LangChain / AutoGen / CrewAI / LangGraph 建立实体页到 `wiki/entities/`
 - [ ] 补全来源摘要页的 `source_url`（当前为"待补充"，因来源是纸质 / 扫描书籍）
+- [ ] 补全《扣子智能体构建平台》的 `source`/`source_url`（原始资料未注明出处）
